@@ -3,7 +3,7 @@ import Spinner from '../spinner/Spinner';
 import ErrorMessage from '../errorMessage/ErrorMessage';
 import useMarvelService from '../../services/MarvelService';
 
-import './randomChar.scss';
+import './randomChar.min.css';
 import mjolnir from '../../resources/img/mjolnir.png';
 
 

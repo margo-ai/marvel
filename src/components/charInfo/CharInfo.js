@@ -6,7 +6,7 @@ import Spinner from '../spinner/Spinner';
 import ErrorMessage from '../errorMessage/ErrorMessage';
 import Skeleton from '../skeleton/Skeleton';
 
-import './charInfo.scss';
+import './charInfo.min.css';
 
 const CharInfo = (props) => {
 
